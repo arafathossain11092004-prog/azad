@@ -1,7 +1,7 @@
 {
   "product": "AZAD Asset Manager",
   "version": "2.5.9",
-  "downloadUrl": "https://github.com/YOUR-USERNAME/azad-asset-manager/releases/latest",
+  "downloadUrl": "https://github.com/azadplugins/azad-asset-manager/releases/latest",
   "releaseNotes": [
     "Initial public release",
     "Added Text FX panel with live previews",
