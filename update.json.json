@@ -1,10 +1,14 @@
 {
   "product": "AZAD Asset Manager",
   "version": "2.5.9",
-  "downloadUrl": "https://github.com/USER/REPOSITORY/releases/latest",
+  "downloadUrl": "https://github.com/YOUR-USERNAME/azad-asset-manager/releases/latest",
   "releaseNotes": [
-    "Initial public release with free automatic update checker"
+    "Initial public release",
+    "Added Text FX panel with live previews",
+    "Added Shatter Effects",
+    "Added Resize Comp tools",
+    "Added free automatic update checker"
   ],
   "publishedAt": "2026-07-17",
-  "sha256": "OPTIONAL_SHA256_OF_SIGNED_ZXP"
+  "sha256": ""
 }
