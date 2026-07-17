@@ -1,0 +1,10 @@
+{
+  "product": "AZAD Asset Manager",
+  "version": "2.5.9",
+  "downloadUrl": "https://github.com/USER/REPOSITORY/releases/latest",
+  "releaseNotes": [
+    "Initial public release with free automatic update checker"
+  ],
+  "publishedAt": "2026-07-17",
+  "sha256": "OPTIONAL_SHA256_OF_SIGNED_ZXP"
+}
